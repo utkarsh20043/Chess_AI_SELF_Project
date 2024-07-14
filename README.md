@@ -21,4 +21,4 @@ implementing various chess algorithms for the AI.
 3. https://youtu.be/ffzvhe97J4Q?feature=shared
 
 I would like to thank Eddie Sharick, 
-who has provided great resources to develop this project!
+who has provided great tutorials to develop this project!
