@@ -20,6 +20,7 @@ implementing various chess algorithms for the AI.
 1. https://youtube.com/playlist?list=PLBwF487qi8MGU81nDGaeNE1EnNEPYWKY_&feature=shared
 2. https://youtu.be/w4FFX_otR-4?feature=shared
 3. https://youtu.be/ffzvhe97J4Q?feature=shared
+4. https://www.freecodecamp.org/news/simple-chess-ai-step-by-step-1d55a9266977/
 
 I would like to thank Eddie Sharick, 
 who has provided great tutorials to develop this project!
