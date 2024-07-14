@@ -1,4 +1,5 @@
 SELF PROJECT
+
 This project is a Python-based chess game with a graphical user interface (GUI) and an AI opponent.
 The game supports two-player mode and a mode to play against the computer,
 implementing various chess algorithms for the AI.
